@@ -6,7 +6,7 @@ Android Learning
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [pplong117@@gmail.com](mailto:pplong117@@gmail.com)
-* 🧠  I'm learning Kotlin
+* 🧠  I'm learning Kotlin, C/C++, C#, Python
 
 ### Skills
 
